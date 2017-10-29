@@ -1,0 +1,14 @@
+h1 {
+  background-color: #f99c12;
+  color: white;
+  padding: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin: auto;
+  border-radius: 20px;
+  display: inline-block;
+  font-family: 'Quicksand';
+  max-width: 100%;
+  width: 80%;
+  font-size: 1.7em;
+}

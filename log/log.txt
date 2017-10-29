@@ -1,0 +1,238 @@
+2017-10-29 17:15:35 generating filename: hallo-du-großer.jpg from title: Hallo du großer
+2017-10-29 17:15:35 generating filename: hallo-du-großer.jpg from title: Hallo du großer
+2017-10-29 17:18:20 generating filename: hallo-du-großer.jpg from title: Hallo du großer
+2017-10-29 17:15:35 generating filename: hallo-du-großer.jpg from title: Hallo du großer
+2017-10-29 17:15:35 generating filename: hallo-du-großer.jpg from title: Hallo du großer
+2017-10-29 17:18:20 generating filename: hallo-du-großer.jpg from title: Hallo du großer
+2017-10-29 17:18:37 generating filename: hallo-du-großer.jpg from title: Hallo du großer
+2017-10-29 17:19:06 generating filename: hallo-du-großer.jpg from title: Hallo du großer
+2017-10-29 17:19:43 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 17:21:04 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 17:21:47 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 17:22:30 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 17:23:00 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 17:23:14 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 17:23:14 got Author: Lorenzo Cafaro
+2017-10-29 17:32:42 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 17:32:42 got Author: Lorenzo Cafaro
+2017-10-29 17:33:55 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 17:33:55 got Author: Lorenzo Cafaro
+2017-10-29 17:36:58 got input: Der Große Test  Url: https://www.pexels.com/photo/auto-automobile-blur-bokeh-242276/
+2017-10-29 17:36:58 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 17:36:58 got Author: Lorenzo Cafaro
+2017-10-29 18:27:15 got input: Das Auto  Url: https://www.pexels.com/photo/blur-cars-daylight-landscape-242125/
+2017-10-29 18:27:15 generating filename: das-auto.jpg from title: Das Auto
+2017-10-29 18:27:15 got Author: Kaique Rocha
+2017-10-29 18:27:15Download of https://static.pexels.com/photos/242125/pexels-photo-242125.jpeg Successful.
+2017-10-29 18:27:15 successfully resized and cropped large - square
+2017-10-29 18:28:19 got input: Das Auto  Url: https://www.pexels.com/photo/blur-cars-daylight-landscape-242125/
+2017-10-29 18:28:19 generating filename: das-auto.jpg from title: Das Auto
+2017-10-29 18:28:19 got Author: Kaique Rocha
+2017-10-29 18:28:19Download of https://static.pexels.com/photos/242125/pexels-photo-242125.jpeg Successful.
+2017-10-29 18:28:19 successfully resized and cropped large - square
+2017-10-29 18:30:31 got input: Das Auto  Url: https://www.pexels.com/photo/blur-cars-daylight-landscape-242125/
+2017-10-29 18:30:31 generating filename: das-auto.jpg from title: Das Auto
+2017-10-29 18:30:31 got Author: Kaique Rocha
+2017-10-29 18:30:31Download of https://static.pexels.com/photos/242125/pexels-photo-242125.jpeg Successful.
+2017-10-29 18:30:31 successfully resized and cropped large - square
+Starting hero-image production...
+2017-10-29 18:34:39 got input: Das Auto  Url: https://www.pexels.com/photo/blur-cars-daylight-landscape-242125/
+2017-10-29 18:34:39 generating filename: das-auto.jpg from title: Das Auto
+2017-10-29 18:34:39 got Author: Kaique Rocha
+2017-10-29 18:34:39Download of https://static.pexels.com/photos/242125/pexels-photo-242125.jpeg Successful.
+2017-10-29 18:36:46 got input: Das Auto  Url: https://www.pexels.com/photo/blur-cars-daylight-landscape-242125/
+2017-10-29 18:36:46 generating filename: das-auto.jpg from title: Das Auto
+2017-10-29 18:36:46 got Author: Kaique Rocha
+2017-10-29 18:36:46 Download of https://static.pexels.com/photos/242125/pexels-photo-242125.jpeg Successful.
+2017-10-29 18:36:46 successfully resized and cropped large - square
+Starting hero-image production...
+Starting shell script for CTA and Hero-image..
+2017-10-29 19:16:49 got input: Das Auto  Url: https://www.pexels.com/photo/blur-cars-daylight-landscape-242125/
+2017-10-29 19:16:49 generating filename: das-auto.jpg from title: Das Auto
+2017-10-29 19:16:49 got Author: Kaique Rocha
+2017-10-29 19:16:49 Download of https://static.pexels.com/photos/242125/pexels-photo-242125.jpeg Successful.
+2017-10-29 19:16:49 successfully resized and cropped large - square
+Starting hero-image production...
+Starting shell script for CTA and Hero-image..
+2017-10-29 19:17:53 got input: Das Auto  Url: https://www.pexels.com/photo/blur-cars-daylight-landscape-242125/
+2017-10-29 19:17:53 generating filename: das-auto.jpg from title: Das Auto
+2017-10-29 19:17:53 got Author: Kaique Rocha
+2017-10-29 19:17:53 Download of https://static.pexels.com/photos/242125/pexels-photo-242125.jpeg Successful.
+2017-10-29 19:17:53 successfully resized and cropped large - square
+Starting hero-image production...
+Starting shell script for CTA and Hero-image..
+2017-10-29 19:19:24 got input: Das Auto  Url: https://www.pexels.com/photo/blur-cars-daylight-landscape-242125/
+2017-10-29 19:19:24 generating filename: das-auto.jpg from title: Das Auto
+2017-10-29 19:19:24 got Author: Kaique Rocha
+2017-10-29 19:19:24 Download of https://static.pexels.com/photos/242125/pexels-photo-242125.jpeg Successful.
+2017-10-29 19:19:24 successfully resized and cropped large - square
+Starting hero-image production...
+Starting shell script for CTA and Hero-image..
+2017-10-29 19:23:53 got input: Der Große Test  Url: https://www.pexels.com/photo/auto-automobile-blur-bokeh-242276/
+2017-10-29 19:23:53 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 19:23:53 got Author: Lorenzo Cafaro
+2017-10-29 19:23:53 Download of https://static.pexels.com/photos/242276/pexels-photo-242276.jpeg Successful.
+2017-10-29 19:23:53 successfully resized and cropped large - square
+Starting hero-image production...
+Starting shell script for CTA and Hero-image..
+2017-10-29 19:24:23 got input: Der Große Test  Url: https://www.pexels.com/photo/auto-automobile-blur-bokeh-242276/
+2017-10-29 19:24:23 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 19:24:23 got Author: Lorenzo Cafaro
+2017-10-29 19:24:23 Download of https://static.pexels.com/photos/242276/pexels-photo-242276.jpeg Successful.
+2017-10-29 19:24:23 successfully resized and cropped large - square
+Starting hero-image production...
+Starting shell script for CTA and Hero-image..
+2017-10-29 19:27:21 got input: Der Große Test  Url: https://www.pexels.com/photo/auto-automobile-blur-bokeh-242276/
+2017-10-29 19:27:21 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 19:27:21 got Author: Lorenzo Cafaro
+2017-10-29 19:27:21 Download of https://static.pexels.com/photos/242276/pexels-photo-242276.jpeg Successful.
+2017-10-29 19:27:21 successfully resized and cropped large - square
+Starting hero-image production...
+Starting shell script for CTA and Hero-image..
+2017-10-29 19:28:38 got input: Der Große Test  Url: https://www.pexels.com/photo/auto-automobile-blur-bokeh-242276/
+2017-10-29 19:28:38 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 19:28:38 got Author: Lorenzo Cafaro
+2017-10-29 19:28:38 Download of https://static.pexels.com/photos/242276/pexels-photo-242276.jpeg Successful.
+2017-10-29 19:28:38 successfully resized and cropped large - square
+Starting hero-image production...
+Starting shell script for CTA and Hero-image..
+2017-10-29 19:29:04 got input: Der Große Test  Url: https://www.pexels.com/photo/auto-automobile-blur-bokeh-242276/
+2017-10-29 19:29:04 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 19:29:04 got Author: Lorenzo Cafaro
+2017-10-29 19:29:04 Download of https://static.pexels.com/photos/242276/pexels-photo-242276.jpeg Successful.
+2017-10-29 19:29:04 successfully resized and cropped large - square
+Starting hero-image production...
+Starting shell script for CTA and Hero-image..
+2017-10-29 19:32:17 got input: Der Große Test  Url: https://www.pexels.com/photo/auto-automobile-blur-bokeh-242276/
+2017-10-29 19:32:17 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 19:32:17 got Author: Lorenzo Cafaro
+2017-10-29 19:32:17 Download of https://static.pexels.com/photos/242276/pexels-photo-242276.jpeg Successful.
+2017-10-29 19:32:17 successfully resized and cropped large - square
+Starting hero-image production...
+Starting shell script for CTA and Hero-image..
+2017-10-29 19:34:12 got input: Der Große Test  Url: https://www.pexels.com/photo/auto-automobile-blur-bokeh-242276/
+2017-10-29 19:34:12 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 19:34:12 got Author: Lorenzo Cafaro
+2017-10-29 19:34:12 Download of https://static.pexels.com/photos/242276/pexels-photo-242276.jpeg Successful.
+2017-10-29 19:34:12 successfully resized and cropped large - square
+Starting hero-image production...
+Starting shell script for CTA and Hero-image..
+2017-10-29 19:36:57 got input: Der Große Test  Url: https://www.pexels.com/photo/auto-automobile-blur-bokeh-242276/
+2017-10-29 19:36:57 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 19:36:57 got Author: Lorenzo Cafaro
+2017-10-29 19:36:57 Download of https://static.pexels.com/photos/242276/pexels-photo-242276.jpeg Successful.
+2017-10-29 19:36:57 successfully resized and cropped large - square
+Starting hero-image production...
+Starting shell script for CTA and Hero-image..
+2017-10-29 19:40:13 got input: Der Große Test  Url: https://www.pexels.com/photo/auto-automobile-blur-bokeh-242276/
+2017-10-29 19:40:13 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 19:40:13 got Author: Lorenzo Cafaro
+2017-10-29 19:40:13 Download of https://static.pexels.com/photos/242276/pexels-photo-242276.jpeg Successful.
+2017-10-29 19:40:13 successfully resized and cropped large - square
+Starting hero-image production...
+Starting shell script for CTA and Hero-image..
+2017-10-29 19:41:15 got input: Der Große Test  Url: https://www.pexels.com/photo/auto-automobile-blur-bokeh-242276/
+2017-10-29 19:41:15 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 19:41:15 got Author: Lorenzo Cafaro
+2017-10-29 19:41:15 Download of https://static.pexels.com/photos/242276/pexels-photo-242276.jpeg Successful.
+2017-10-29 19:41:15 successfully resized and cropped large - square
+Starting hero-image production...
+Starting shell script for CTA and Hero-image..
+2017-10-29 19:43:25 got input: Der Große Test  Url: https://www.pexels.com/photo/auto-automobile-blur-bokeh-242276/
+2017-10-29 19:43:25 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 19:43:25 got Author: Lorenzo Cafaro
+2017-10-29 19:43:25 Download of https://static.pexels.com/photos/242276/pexels-photo-242276.jpeg Successful.
+2017-10-29 19:43:25 successfully resized and cropped large - square
+Starting hero-image production...
+Starting shell script for CTA and Hero-image..
+2017-10-29 19:48:52 got input: Der Große Test  Url: https://www.pexels.com/photo/auto-automobile-blur-bokeh-242276/
+2017-10-29 19:48:52 generating filename: der-große-test.jpg from title: Der Große Test
+2017-10-29 19:48:52 got Author: Lorenzo Cafaro
+2017-10-29 19:48:52 Download of https://static.pexels.com/photos/242276/pexels-photo-242276.jpeg Successful.
+2017-10-29 19:48:52 successfully resized and cropped large - square
+Starting hero-image production...
+2017-10-29 19:48:52 Starting shell script for CTA and Hero-image..
+2017-10-29 19:50:43 got input: Der Lenkraddreher  Url: https://www.pexels.com/photo/adult-automotive-blur-car-13861/
+2017-10-29 19:50:43 generating filename: der-lenkraddreher.jpg from title: Der Lenkraddreher
+2017-10-29 19:50:43 got Author: JESHOOTS.com
+2017-10-29 19:50:43 Download of https://static.pexels.com/photos/13861/IMG_3496bfree.jpg Successful.
+2017-10-29 19:50:43 successfully resized and cropped large - square
+Starting hero-image production...
+2017-10-29 19:50:43 Starting shell script for CTA and Hero-image..
+2017-10-29 19:53:53 got input: Der Lenkraddreher  Url: https://www.pexels.com/photo/adult-automotive-blur-car-13861/
+2017-10-29 19:53:53 generating filename: der-lenkraddreher.jpg from title: Der Lenkraddreher
+2017-10-29 19:53:53 got Author: JESHOOTS.com
+2017-10-29 19:53:53 Download of https://static.pexels.com/photos/13861/IMG_3496bfree.jpg Successful.
+2017-10-29 19:53:53 successfully resized and cropped large - square
+Starting hero-image production...
+2017-10-29 19:53:53 Starting shell script for CTA and Hero-image..
+2017-10-29 19:57:47 got input: Der Lenkraddreher  Url: https://www.pexels.com/photo/adult-automotive-blur-car-13861/
+2017-10-29 19:57:47 generating filename: der-lenkraddreher.jpg from title: Der Lenkraddreher
+2017-10-29 19:57:47 got Author: JESHOOTS.com
+2017-10-29 19:57:47 Download of https://static.pexels.com/photos/13861/IMG_3496bfree.jpg Successful.
+2017-10-29 19:57:47 successfully resized and cropped large - square
+Starting hero-image production...
+2017-10-29 19:57:47 Starting shell script for CTA and Hero-image..
+2017-10-29 19:59:42 got input: Der Lenkraddreher  Url: https://www.pexels.com/photo/adult-automotive-blur-car-13861/
+2017-10-29 19:59:42 generating filename: der-lenkraddreher.jpg from title: Der Lenkraddreher
+2017-10-29 19:59:42 got Author: JESHOOTS.com
+2017-10-29 19:59:42 Download of https://static.pexels.com/photos/13861/IMG_3496bfree.jpg Successful.
+2017-10-29 19:59:42 successfully resized and cropped large - square
+Starting hero-image production...
+2017-10-29 19:59:42 Starting shell script for CTA and Hero-image..
+2017-10-29 20:00:58 got input: Der Lenkraddreher  Url: https://www.pexels.com/photo/adult-automotive-blur-car-13861/
+2017-10-29 20:00:58 generating filename: der-lenkraddreher.jpg from title: Der Lenkraddreher
+2017-10-29 20:00:58 got Author: JESHOOTS.com
+2017-10-29 20:00:58 Download of https://static.pexels.com/photos/13861/IMG_3496bfree.jpg Successful.
+2017-10-29 20:00:58 successfully resized and cropped large - square
+Starting hero-image production...
+2017-10-29 20:00:58 Starting shell script for CTA and Hero-image..
+2017-10-29 20:01:47 got input: Der Lenkraddreher  Url: https://www.pexels.com/photo/adult-automotive-blur-car-13861/
+2017-10-29 20:01:47 generating filename: der-lenkraddreher.jpg from title: Der Lenkraddreher
+2017-10-29 20:01:47 got Author: JESHOOTS.com
+2017-10-29 20:01:47 Download of https://static.pexels.com/photos/13861/IMG_3496bfree.jpg Successful.
+2017-10-29 20:01:47 successfully resized and cropped large - square
+Starting hero-image production...
+2017-10-29 20:01:47 Starting shell script for CTA and Hero-image..
+2017-10-29 20:03:34 got input: Der Lenkraddreher  Url: https://www.pexels.com/photo/adult-automotive-blur-car-13861/
+2017-10-29 20:03:34 generating filename: der-lenkraddreher.jpg from title: Der Lenkraddreher
+2017-10-29 20:03:34 got Author: JESHOOTS.com
+2017-10-29 20:03:34 Download of https://static.pexels.com/photos/13861/IMG_3496bfree.jpg Successful.
+2017-10-29 20:03:34 successfully resized and cropped large - square
+Starting hero-image production...
+2017-10-29 20:03:34 Starting shell script for CTA and Hero-image..
+2017-10-29 20:10:07 got input: Autonome Action  Url: https://www.pexels.com/photo/auto-automobile-automotive-black-243101/
+2017-10-29 20:10:07 generating filename: autonome-action.jpg from title: Autonome Action
+2017-10-29 20:10:07 got Author: Fancycrave
+2017-10-29 20:10:07 Download of https://static.pexels.com/photos/243101/pexels-photo-243101.jpeg Successful.
+2017-10-29 20:10:07 successfully resized and cropped large - square
+Starting hero-image production...
+2017-10-29 20:10:07 Starting shell script for CTA and Hero-image..
+2017-10-29 20:11:14 got input: Autonome Action  Url: https://www.pexels.com/photo/auto-automobile-automotive-black-243101/
+2017-10-29 20:11:14 generating filename: autonome-action.jpg from title: Autonome Action
+2017-10-29 20:11:14 got Author: Fancycrave
+2017-10-29 20:11:14 Download of https://static.pexels.com/photos/243101/pexels-photo-243101.jpeg Successful.
+2017-10-29 20:11:14 successfully resized and cropped large - square
+Starting hero-image production...
+2017-10-29 20:11:14 Starting shell script for CTA and Hero-image..
+2017-10-29 20:11:43 got input: Autonome Action  Url: https://www.pexels.com/photo/auto-automobile-automotive-black-243101/
+2017-10-29 20:11:43 generating filename: autonome-action.jpg from title: Autonome Action
+2017-10-29 20:11:43 got Author: Fancycrave
+2017-10-29 20:11:43 Download of https://static.pexels.com/photos/243101/pexels-photo-243101.jpeg Successful.
+2017-10-29 20:11:43 successfully resized and cropped large - square
+Starting hero-image production...
+2017-10-29 20:11:43 Starting shell script for CTA and Hero-image..
+2017-10-29 20:12:51 got input: Im from smoke..  Url: https://www.pexels.com/photo/blur-branch-bright-close-up-241440/
+2017-10-29 20:12:51 generating filename: im-from-smoke...jpg from title: Im from smoke..
+2017-10-29 20:12:51 got Author: urbex clan
+2017-10-29 20:12:51 Download of https://static.pexels.com/photos/241440/pexels-photo-241440.jpeg Successful.
+2017-10-29 20:12:51 successfully resized and cropped large - square
+Starting hero-image production...
+2017-10-29 20:12:51 Starting shell script for CTA and Hero-image..
+2017-10-29 20:47:32 got input: Der Mann am See  Url: https://www.pexels.com/photo/back-view-boy-conifers-daylight-241408/
+2017-10-29 20:47:32 generating filename: der-mann-am-see.jpg from title: Der Mann am See
+2017-10-29 20:47:32 got Author: urbex clan
+2017-10-29 20:47:32 Download of https://static.pexels.com/photos/241408/pexels-photo-241408.jpeg Successful.
+2017-10-29 20:47:32 successfully resized and cropped large - square
+Starting hero-image production...
+2017-10-29 20:47:32 Starting shell script for CTA and Hero-image..
