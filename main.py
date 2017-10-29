@@ -33,25 +33,43 @@ downloadurl = webpage.xpath('//div[@class="image-section__sidebar"]//div[@class=
 imagelink = ''.join(downloadurl)
 print ('Image Download Link: ' + imagelink)
 # download image
+print ('Downloading...')
 f = open('workbench/'+jpegFileName, 'wb')
 f.write(requests.get(imagelink).content)
 f.close()
+print('Download successful.')
 # crop image
+print ('Generating Images...')
 import PIL  # import python-imaging
 from PIL import Image
-large = 999
-medium = 600
-small = 300
 img = Image.open('workbench/'+jpegFileName)  # read image
 # large image
-wpercent = (small / float(img.size[0]))
-hsize = int((float(img.size[1]) * float(wpercent)))
-img = img.resize((small, hsize), PIL.Image.ANTIALIAS)
-img.save('data/small/'+jpegFileName)  # save down small image
-
+img = img.resize((1000, 600), Image.ANTIALIAS)
+img.save('data/large/'+jpegFileName)  # save down large image
+# medium image
+img = img.resize((600, 400), Image.ANTIALIAS)
+img.save('data/medium/'+jpegFileName)  # save down large image
 # small image
-wpercent = (small / float(img.size[0]))
-hsize = int((float(img.size[1]) * float(wpercent)))
-img = img.resize((small, hsize), PIL.Image.ANTIALIAS)
-img.save('data/small/'+jpegFileName)  # save down small image
+img = img.resize((300, 180), Image.ANTIALIAS)
+img.save('data/small/'+jpegFileName)  # save down large image
+# crop square image
+from PIL import Image, ImageOps
+thumb = ImageOps.fit(img, (100, 100), Image.ANTIALIAS)
+# img = ImageOps.fit((100, 100), Image.ANTIALIAS)
+thumb.save('data/square/'+jpegFileName)  # save down large image
+print ('Images generated successful.')
 
+#
+# img = img.resize((large, hsize), PIL.Image.ANTIALIAS)
+# img.save('data/large/'+jpegFileName)  # save down small image
+# #medium image
+# wpercent = (medium / float(img.size[0]))
+# hsize = int((float(img.size[1]) * float(wpercent)))
+# img = img.resize((medium, hsize), PIL.Image.ANTIALIAS)
+# img.save('data/medium/'+jpegFileName)  # save down small image
+# # small image
+# wpercent = (small / float(img.size[0]))
+# hsize = int((float(img.size[1]) * float(wpercent)))
+# img = img.resize((small, hsize), PIL.Image.ANTIALIAS)
+# img.save('data/small/'+jpegFileName)  # save down small image
+#
