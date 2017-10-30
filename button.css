@@ -1,14 +1,32 @@
-h1 {
+.cta {
   background-color: #f99c12;
   color: white;
   padding: 10px;
   padding-left: 40px;
-  padding-right: 40px;
+  padding-right: 60px;
   margin: auto;
   border-radius: 20px;
   display: inline-block;
   font-family: 'Quicksand';
   max-width: 100%;
   width: 80%;
-  font-size: 1.7em;
+  font-size: 1.7rem;
+  float: right;
+  text-align: right;
+  width: auto;
+  z-index: 1;
 }
+.arrow {
+    font-family: 'Quicksand';
+    font-size: 2.5rem;
+    color: white;
+    text-align: right;
+    float: right;
+    display: inline-block;
+    max-width: 100%;
+    position: absolute;
+    width: auto;
+    z-index: 2;
+    right: 20px;
+    top: -13px;
+  }
