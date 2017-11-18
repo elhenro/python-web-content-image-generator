@@ -1,4 +1,5 @@
 # $ python3 main.py 'Der Titel' https://url.com
+# -*- coding: utf-8 -*-
 import sys
 import os  # for os line breaks and bash
 from lxml import html  # for reading dom
@@ -14,9 +15,19 @@ item_url = (sys.argv[2])
 kleinb = item_title.lower()
 
 kleinbdash = kleinb.replace(' ', '-').lower()
-jpegFileName = kleinbdash + '.jpg'  # TODO: Umlaute
-heroName = 'hero_'+jpegFileName
+kleinbdash_wo_umlaut = kleinbdash.replace('ä', 'ae').lower()
+jFN = kleinbdash + '.jpg'  # TODO: Umlaute
+umlaut_table = {
+         ord('ä'): 'ae',
+         ord('ö'): 'oe',
+         ord('ü'): 'ue',
+         ord('ß'): 'ss',
+       }
+jpegFileName = jFN.translate(umlaut_table)
+heroName = 'hero_' + jpegFileName
 print (jpegFileName)
+
+
 
 # log function
 def logger ( entry ) :
