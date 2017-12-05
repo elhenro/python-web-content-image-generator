@@ -9,7 +9,7 @@ FILENAME="$3"
 # put title text in html
 sed -i "s/TEXT/${TITLE}/" button.html
 # render CTA from button.html
-phantomjs /usr/local/share/phantomjs-1.9.8-linux-x86_64/examples/rasterize.js /home/hnr/web/ci-generator/button.html exp.png
+phantomjs /usr/local/share/phantomjs/examples/rasterize.js /home/hnr/web/ci-generator/button.html exp.png
 # merge images southeast - put CTA on image
 composite -gravity southeast exp.png $INPUT $FILENAME
 # End
